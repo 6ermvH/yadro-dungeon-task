@@ -1,0 +1,14 @@
+[10:00:00] Player [1] registered
+[10:05:00] Player [1] entered the dungeon
+[10:06:00] Player [1] killed the monster
+[10:07:00] Player [1] went to the next floor
+[10:08:00] Player [1] went to the previous floor
+[10:09:00] Player [1] makes imposible move [3]
+[10:10:00] Player [1] went to the next floor
+[10:11:00] Player [1] killed the monster
+[10:12:00] Player [1] went to the next floor
+[10:12:00] Player [1] entered the boss's floor
+[10:15:00] Player [1] killed the boss
+[10:20:00] Player [1] left the dungeon
+Final report:
+[SUCCESS] 1 [00:15:00, 00:01:00, 00:03:00] HP:100

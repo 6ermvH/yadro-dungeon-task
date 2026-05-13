@@ -1,0 +1,20 @@
+[08:00:00] Player [1] registered
+[08:00:00] Player [2] registered
+[08:05:00] Player [1] entered the dungeon
+[08:05:00] Player [2] entered the dungeon
+[08:06:00] Player [1] recieved [0] of damage
+[08:07:00] Player [1] has restored [0] of health
+[08:08:00] Player [1] recieved [99] of damage
+[08:09:00] Player [1] has restored [200] of health
+[08:10:00] Player [1] killed the monster
+[08:11:00] Player [1] went to the next floor
+[08:11:00] Player [1] entered the boss's floor
+[08:12:00] Player [1] recieved [25] of damage
+[08:13:00] Player [1] killed the boss
+[08:14:00] Player [1] makes imposible move [7]
+[08:15:00] Player [1] left the dungeon
+[08:10:00] Player [2] recieved [100] of damage
+[08:10:00] Player [2] is dead
+Final report:
+[SUCCESS] 1 [00:10:00, 00:05:00, 00:02:00] HP:75
+[FAIL] 2 [00:05:00, 00:00:00, 00:00:00] HP:0
